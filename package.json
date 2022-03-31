@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/cs-devops-bootcamp/devops-01-P2-TeamB#readme",
   "dependencies": {
+    "docker": "^1.0.0",
     "dotenv": "^16.0.0",
     "fastify": "^3.0.0",
     "fastify-autoload": "^3.10.0",
